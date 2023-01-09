@@ -12,6 +12,6 @@
 > A stagen lévő állományokról tudunk állapotfelvételt (commit-ot) készíteni.
 > Üres mappa nem kerül stage-re.
 - git add állomány_neve
-- git add. (összes állomány és mappa hozzáadása)
+- git add . (összes állomány és mappa hozzáadása)
 ## 5. Állapotfelvétel (commit) készítése
 - git commit  -m "commit message"
