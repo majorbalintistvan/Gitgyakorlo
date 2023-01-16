@@ -18,7 +18,7 @@
 ## 6. Git állapot és log lekérdezése
 - git status
 - git log
-## 7.  Lokális változások feltöltése atávoli repóba
+## 7.  Lokális változások feltöltése a távoli repóba
 - git push
 ## 8. távoli repó másolása(klónozása) a lokális repóba
 - git clone " távoli repó URL címe"
@@ -39,3 +39,5 @@
 > Változások átvezérlése (merge)
 - git checkout ág_ahova_kerülnek_a_változások
 - git merge ág_ahonnan_áthozzuk_a_változásokat
+## 10. Távoli repó váltouásainak letöltése a lokális gépre
+-git fetch origin
